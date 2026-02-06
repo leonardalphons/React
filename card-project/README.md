@@ -1,1 +1,1 @@
-# This is mini-project based on components and props.
+# This is a mini-project based on components and props.
